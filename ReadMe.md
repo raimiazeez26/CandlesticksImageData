@@ -26,4 +26,5 @@ Some models you can train for price prediction using images of price candle data
 - LSTM
 
 See example usage of image recognition model here:  
+https://www.kaggle.com/code/raimiazeezbabatunde/cnn-image-recognition-for-price-prediction
 
