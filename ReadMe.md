@@ -1,6 +1,6 @@
 # Candlestick Image Plot
 
-![image](QQQ_64.png)
+![image](QQQ.png)
 
 This project contains code to generate images of candles which can be used to train Neural Network Models for price 
 predictions.
